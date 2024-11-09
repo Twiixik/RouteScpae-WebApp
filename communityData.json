@@ -1,0 +1,74 @@
+{
+  "dailyPosts": {
+    "post1": {
+      "username": "Lukas Grey",
+      "postTime": "2 hours ago",
+      "profileImage": "https://images.unsplash.com/photo-1502767089025-6572583495d8",
+      "postImage": "https://picsum.photos/id/237/600/400",
+      "postCaption": "Midtjylland dump from last week",
+      "likes": 172,
+      "comments": 34
+    },
+    "post2": {
+      "username": "Sofie Lund",
+      "postTime": "3 hours ago",
+      "profileImage": "https://images.unsplash.com/photo-1499714608240-22fc6ad53fb2",
+      "postImage": "https://picsum.photos/id/238/600/400",
+      "postCaption": "Amazing sunset at the beach",
+      "likes": 150,
+      "comments": 25
+    }
+  },
+  "articles": {
+    "article1": {
+      "author": "Nikolaj Jepsen",
+      "readTime": "5 min read",
+      "profileImage": "https://images.unsplash.com/photo-1527980965255-d3b416303d12",
+      "articleImage": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "articleTitle": "A Day in Gothenburg",
+      "articleSnippet": "Wandering through Gothenburg's cobblestone streets felt like a dream.",
+      "likes": 176,
+      "comments": 65
+    },
+    "article2": {
+      "author": "Magnus Sørensen",
+      "readTime": "8 min read",
+      "profileImage": "https://images.unsplash.com/photo-1552058544-f2b08422138a",
+      "articleImage": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "articleTitle": "Exploring Oslo's Hidden Gems",
+      "articleSnippet": "Oslo has so much to offer beyond the typical tourist spots.",
+      "likes": 200,
+      "comments": 80
+    }
+  },
+  "discussions": {
+    "discussion1": {
+      "author": "Freya Nilsen",
+      "postTime": "2 hours ago",
+      "profileImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+      "discussionTitle": "Best Route for a Scenic Drive",
+      "discussionContent": "What's the best route for a scenic drive through Norway?",
+      "likes": 172,
+      "comments": 34
+    },
+    "discussion2": {
+      "author": "Maja Johansen",
+      "postTime": "3 hours ago",
+      "profileImage": "https://images.unsplash.com/photo-1507035895480-0f2da0ed1fdf",
+      "discussionTitle": "Cozy Cabin in Sweden",
+      "discussionContent": "Does anyone know where this cozy cabin is located?",
+      "likes": 190,
+      "comments": 55
+    },
+     "discussion3": {
+      "author": "Tim Johansen",
+      "postTime": "3 days ago",
+      "profileImage": "https://images.unsplash.com/photo-1507035895480-0f2da0ed1fdf",
+      "discussionTitle": "How can I get car in Norway?",
+      "discussionContent": "How can I get a car in Norway? Is there any rules what I should follow?",
+      "likes": 90,
+      "comments": 20
+    }
+    
+  }
+}
